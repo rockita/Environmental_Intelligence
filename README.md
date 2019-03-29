@@ -1,4 +1,4 @@
-# Environmental Intelligence Data
+# Data for Environmental Intelligence
 
 A deluge of Earth system data has become available in the past decades including remote sensing, in situ observations from sensors, socioeconomic data and citizen science observations. One challenge is that in many countries such data is not routinely available. Another key challenge is to extract interpretable information and knowledge that allows for the quantification and monitoring of progress against the UNs Sustainable Development Goals, enabling evidence-based decision making for policy makers and the industry.  
 
