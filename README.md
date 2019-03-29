@@ -1,6 +1,6 @@
 A deluge of Earth system data has become available in the past decades including remote sensing, in situ observations from sensors, socioeconomic data and citizen science observations. One challenge is that in many countries such data is not routinely available. Another key challenge is to extract interpretable information and knowledge that allows for the quantification and monitoring of progress against the UNs Sustainable Development Goals, enabling evidence-based decision making for policy makers and the industry.  
 
-A global ecosystem for *Environmental Intelligence*, has the potential to put us on a path toward a sustainable future. This will require action from citizens, governments, the private sector and intergovernmental organisations to collect and share data, process data and create analytical insights and knowledge. 
+A global ecosystem for *Environmental Intelligence*, has the potential to put us on a path toward a sustainable future. This will require action from citizens, governments, the private sector and intergovernmental organisations to collect and share data, process data and create analytical insights and knowledge. It requires more than the mere collection of data; it requires data fusion, modelling, analysis over time and space, understanding of the interdependencies, the correlations and tipping points as well as making timely predictions and interventions.
 
 Below, is a non exhaustive megalist of datasets and databases for an ecosystem of Environmental Intelligence that covers multiple ecosystems and spatiotemporal scales. 
 
