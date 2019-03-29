@@ -4,7 +4,7 @@ A deluge of Earth system data has become available in the past decades includi
 
 A global ecosystem for *Environmental Intelligence*, has the potential to put us on a path toward a sustainable future. This will require action from citizens, governments, the private sector and intergovernmental organisations to collect and share data, process data and create analytical insights and knowledge. It requires more than the mere collection of data; it requires data fusion, modelling, analysis over time and space, understanding of the interdependencies, the correlations and tipping points as well as making timely predictions and interventions.
 
-Below, is a non exhaustive megalist of datasets and databases for an ecosystem of Environmental Intelligence that covers multiple ecosystems and spatiotemporal scales. 
+Below, is a non exhaustive megalist of relevant datasets and databases that cover multiple ecosystems and spatiotemporal scales. 
 
 
 ## Multi-thematic
