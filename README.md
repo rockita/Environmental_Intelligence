@@ -22,6 +22,18 @@
 * [Global Pulse Labs](https://www.unglobalpulse.org/pulse-labs): Pulse Labs bring together government experts, UN agencies, academia and the private sector to pioneer new methods and frameworks for for using Big Data to support development goals.
 * [U.S. Geological Surveys](https://www.usgs.gov/products/data-and-tools/data-and-tools-topics): We provide science about the natural hazards that threaten lives and livelihoods; the water, energy, minerals, and other natural resources we rely on; the health of our ecosystems and environment; and the impacts of climate and land-use change
 * [MapX](https://www.mapx.org)
+* [USGS](https://www.usgs.gov/products/data-and-tools/data-and-tools-topics): The USGS serves the US by providing reliable scientific information to describe and understand the Earth; minimize loss of life and property from natural disasters; manage water, biological, energy, and mineral resources; and enhance and protect our quality of life.
+* [U.S. Energy Information Administration](https://www.eia.gov/tools/)
+* [The European Data Portal](https://www.europeandataportal.eu/data/en/dataset?country=gb): The European Data Portal harvests the metadata of public data made available across Europe (LOTS of environmental data)
+* [Environment Systems Data Service](https://data.envsys.co.uk/)
+* [The United Nations Statistics Division](http://data.un.org/): The United Nations Statistics Division is committed to the advancement of the global statistical system. We compile and disseminate global statistical information, develop standards and norms for statistical activities, and support countries' efforts to strengthen their national statistical systems.
+* [Internet World Stats](https://www.internetworldstats.com/)
+
+
+
+
+https://www.internetworldstats.com/
+
 
 ## Climate
 * [ClimateSeed](https://www.climateseed.com/): projects to offset your carbon emissions while contributing to SDGs at a fair price
@@ -54,6 +66,83 @@
 * [IMPACT Tool Box](https://webgate.ec.europa.eu/fpfis/mwikis/impacttoolbox/index.php/Impact_Toolbox_User_Guide): IMPACT toolbox was designed for analysing and assessing forest degradation using satellite imagery
 * [Global Forest](https://www.globalforestwatch.org/map?menu=eyJkYXRhc2V0Q2F0ZWdvcnkiOiJmb3Jlc3RDaGFuZ2UiLCJtZW51U2VjdGlvbiI6ImRhdGFzZXRzIn0%3D): Global Forest Watch offers the latest data, technology and tools that empower people everywhere to better protect forests.
 * [Forest Atlas](https://www.wri.org/our-work/project/forest-atlases/open-data-portals): The Forest Atlases are online platforms that help countries better manage their forest resources by combining government data with the latest forest monitoring technology
+
+## Biodiversity
+
+* [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/): Free and open access to biodiversity data from 43k databases
+* [Biodiversity Indicators Partnership (BIP)](http://bipdashboard.natureserve.org/bip/SelectCountry.html): Access biodiversity indicator data by country
+* [Wikipedia List of biodiversity databases](https://en.wikipedia.org/wiki/List_of_biodiversity_databases)
+* [UN Biodiversity Lab](https://www.unbiodiversitylab.org/)
+* [UN Environment World Conservation Monitoring Centre (UNEP-WCMC)](https://www.unep-wcmc.org/resources-and-data): The UN Environment World Conservation Monitoring Centre (UNEP-WCMC) works with scientists and policy makers worldwide to place biodiversity at the heart of environment and development decision-making to enable enlightened choices for people and the planet. 
+* [UN Biodiversity Lab](https://www.unbiodiversitylab.org/)
+* [IUCN Red List of Threatened Species](https://www.iucnredlist.org/resources/spatial-data-download)
+* [IUCN Red List of Ecosystems](https://iucnrle.org/)
+* [Map of Life (MOL)](https://mol.org/): The Map of Life assembles and integrates different sources of data describing species distributions worldwide. These data include expert species range maps, species occurrence points, ecoregions, and protected areas from providers like IUCN, WWF, GBIF, and more. All data assets are stored, managed, backed up, and accessed using a hosted cloud instance.
+* [Nature Map Earth](https://naturemap.earth/): Nature Map Earth is developing an integrated global map of biodiversity, carbon storage, and other dimensions of nature by consolidating and crowd-sourcing data from many sources.
+
+## Protected areas
+* [Global Platform of Indigenous and Community Lands](http://www.landmarkmap.org/data/): The Global Platform of Indigenous and Community Lands displays georeferenced information on collectively-held and used lands worldwide
+* [Digital Observatory for Protected Areas (DOPA)](https://dopa-explorer.jrc.ec.europa.eu/dopa_explorer)
+
+## Natural Hazards
+* [Global Risk Data Platform (PREVIEW)](https://preview.grid.unep.ch/): The PREVIEW Global Risk Data Platform is a multiple agencies effort to share spatial data information on global risk from natural hazards. Users can visualise, download or extract data on past hazardous events, human & economical hazard exposure and risk from natural hazards.
+
+## Marine
+* [Global Fishing Watch](https://globalfishingwatch.org/): Global Fishing Watch is promoting ocean sustainability through greater transparency. We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
+* [Global Ocean Observing System](http://www.goosocean.org/): The Global Ocean Observing System (GOOS) is a sustained collaborative system of ocean observations, encompassing in situ networks, satellite systems, governments, UN agencies and individual scientists
+
+
+# Resources and Economy
+* [DataBank](https://data.worldbank.org/): DataBank is an analysis and visualisation tool that contains collections of time series data on a variety of topics. You can create your own queries; generate tables, charts, and maps; and easily save, embed, and share them
+* [World Bank Data Catalogue](https://datacatalog.worldbank.org/): Search and Share Development Data
+* [IMF](https://www.imf.org/en/Data): This data set facilitates bilateral and multilateral analysis of cross-border stocks of securities through an array of cross-economies data tables.
+* [Comtrade Labs](https://comtrade.un.org/): Comtrade Labs is a place to showcase innovative and experimental uses of UN Comtrade data. Explore visualizations of huge volume of data and metadata, cutting-edge data extraction tools, and alternative dissemination platforms.
+* [Harvard Atlas](http://atlas.cid.harvard.edu/data): The Atlas contains trade data for 250 countries and territories, classified into 20 categories of goods and 5 categories of services. Combined, this results in coverage of over 6000 products worldwide.
+* [CHRTD](https://resourcetrade.earth/data): The CHRTD is a repository of bilateral trade in natural resources between more than 200 countries and territories. The database includes the monetary values and masses of trade in over 1,350 different types of natural resources and resource products, including agricultural, fishery and forestry products, fossil fuels, metals and other minerals, and pearls and gemstones. It contains raw materials, intermediate products, and by-products.
+* [Asia Pacific Energy Portal](https://asiapacificenergy.org/): The platform’s goal is to facilitate research, analysis, and informed decision-making within the Asia-Pacific region’s energy sector. It is an open-access information platform, providing data visualizations for an extensive set of energy statistics, full-text policies, and interactive infrastructure maps.
+* [Fao](http://www.fao.org/statistics/databases/en/):The databases within FAO cover a broad spectrum of topics related to food security and agriculture
+* [FAS’s PSD Online data](https://apps.fas.usda.gov/psdonline/app/index.html#/app/downloads/): FAS’s PSD Online data for those commodities published in the WASDE Report are reviewed and updated monthly by an interagency committee chaired by USDA’s World Agricultural Outlook Board (WAOB), and consisting of: the Foreign Agricultural Service (FAS), the Economic Research Service (ERS), the Farm Service Agency (FSA), and the Agricultural Marketing Service (AMS).
+* [Resource Watch](https://resourcewatch.org/): Resource Watch features hundreds of data sets all in one place on the state of the planet’s resources and citizens. Users can visualize challenges facing people and the planet, from climate change to poverty, water risk to state instability, air pollution to human migration, and more.
+* [MIT Observatory of Economic Complexity ](https://atlas.media.mit.edu/api/): The Observatory of Economic Complexity is a tool that allows users to quickly compose a visual narrative about countries and the products they exchange
+
+## Tracking UN's Sustainable Development Goals
+* [Datatopics by Worldbank](http://datatopics.worldbank.org/sdgatlas/SDG-01-no-poverty.html)
+* [SDG Index and Dashboards](https://dashboards.sdgindex.org/#/)
+* [UN Stats SDGs](https://unstats.un.org/sdgs/indicators/database): This platform provides access to data compiled through the UN System in preparation for the Secretary-General's annual report on "Progress towards the Sustainable Development Goals"
+* [Climate Watch Data](https://www.climatewatchdata.org/ndcs-sdg): Identify potential alignment between the targets, actions, policy measures and needs in countries' Nationally Determined Contributions (NDCs) and the targets of the Sustainable Development Goals (SDGs)
+* [Environment Situation Room](https://environmentlive.unep.org/media/html/situation/situation_room.html)
+* [Data4SDGs](http://www.data4sdgs.org/): The Global Partnership for Sustainable Development Data is a global network bringing together governments, the private sector, and civil society organizations dedicated to using the data revolution to achieve the Sustainable Development Goals. 
+* [Global Sustainability Reporting Data](http://database.globalreporting.org/): The Search area provides users access to all types of sustainability reports, whether GRI-based or otherwise, and relevant information related to the reporting organizations
+* [UN Global Pulse](https://www.unglobalpulse.org/): UN Global Pulse is an innovation initiative of the United Nations to harness big data, artificial intelligence and other emerging technologies for sustainable development and humanitarian action 
+* [Environmental Democracy Index](https://environmentaldemocracyindex.org/map#all): The Environmental Democracy Index was developed by The Access Initiative (TAI) and World Resources Institute (WRI) in collaboration with partners around the world. The index evaluates 70 countries, across 75 legal indicators, based on objective and internationally recognized standards established by the United Nations Environment Programme’s (UNEP) Bali Guidelines. 
+
+## Citizen Science Platform
+
+* [eBird](https://ebird.org/home): eBird is the world’s largest biodiversity-related citizen science project, with more than 100 million bird sightings contributed each year by eBirders around the world
+* [iNaturalist](https://www.inaturalist.org/): INaturalist is a citizen science project and online social network of naturalists, citizen scientists, and biologists built on the concept of mapping and sharing observations of biodiversity across the globe
+* [Zooniverse](https://www.zooniverse.org): The Zooniverse enables everyone to take part in real cutting edge research in many fields across the sciences, humanities, and more. The Zooniverse creates opportunities for you to unlock answers and contribute to real discoveries.
+* [Wikipedia List of Citizen Science Platforms](https://en.wikipedia.org/wiki/List_of_citizen_science_projects)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
