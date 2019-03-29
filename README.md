@@ -1,3 +1,10 @@
+A deluge of Earth system data has become available in the past decades including remote sensing, in situ observations from sensors, socioeconomic data and citizen science observations. One challenge is that in many countries such data is not routinely available. Another key challenge is to extract interpretable information and knowledge that allows for the quantification and monitoring of progress against the UNs Sustainable Development Goals, enabling evidence-based decision making for policy makers and the industry.  
+
+A global ecosystem for *Environmental Intelligence*, has the potential to put us on a path toward a sustainable future. This will require action from citizens, governments, the private sector and intergovernmental organisations to collect and share data, process data and create analytical insights and knowledge. 
+
+Below, is a non exhaustive megalist of datasets and databases for an ecosystem of Environmental Intelligence that covers multiple ecosystems and spatiotemporal scales. 
+
+
 ## Multi-thematic
 
 * [Google Earth Engine](https://earthengine.google.com/): A planetary-scale platform for Earth science data & analysis
@@ -73,7 +80,6 @@
 
 
 ## Forests	
-
 * [Global Forest Watch](https://www.globalforestwatch.org/): Global Forest Watch offers the latest data, technology and tools that empower people everywhere to better protect forests.
 * [Global Forest Resources Assessment](http://www.fao.org/forestry/en/)
 * [IMPACT Tool Box](https://webgate.ec.europa.eu/fpfis/mwikis/impacttoolbox/index.php/Impact_Toolbox_User_Guide): IMPACT toolbox was designed for analysing and assessing forest degradation using satellite imagery
@@ -81,7 +87,6 @@
 * [Forest Atlas](https://www.wri.org/our-work/project/forest-atlases/open-data-portals): The Forest Atlases are online platforms that help countries better manage their forest resources by combining government data with the latest forest monitoring technology
 
 ## Biodiversity & Ecology
-
 * [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/): Free and open access to biodiversity data from 43k databases
 * [Biodiversity Indicators Partnership (BIP)](http://bipdashboard.natureserve.org/bip/SelectCountry.html): Access biodiversity indicator data by country
 * [Wikipedia List of biodiversity databases](https://en.wikipedia.org/wiki/List_of_biodiversity_databases)
@@ -140,7 +145,7 @@
 * [UN Global Pulse](https://www.unglobalpulse.org/): UN Global Pulse is an innovation initiative of the United Nations to harness big data, artificial intelligence and other emerging technologies for sustainable development and humanitarian action 
 * [Environmental Democracy Index](https://environmentaldemocracyindex.org/map#all): The Environmental Democracy Index was developed by The Access Initiative (TAI) and World Resources Institute (WRI) in collaboration with partners around the world. The index evaluates 70 countries, across 75 legal indicators, based on objective and internationally recognized standards established by the United Nations Environment Programme’s (UNEP) Bali Guidelines. 
 
-## Citizen Science Platform
+## Citizen Science Platforms
 
 * [eBird](https://ebird.org/home): eBird is the world’s largest biodiversity-related citizen science project, with more than 100 million bird sightings contributed each year by eBirders around the world
 * [iNaturalist](https://www.inaturalist.org/): INaturalist is a citizen science project and online social network of naturalists, citizen scientists, and biologists built on the concept of mapping and sharing observations of biodiversity across the globe
