@@ -26,7 +26,27 @@
 * [Environment Systems Data Service](https://data.envsys.co.uk/)
 * [The United Nations Statistics Division](http://data.un.org/): The United Nations Statistics Division is committed to the advancement of the global statistical system. We compile and disseminate global statistical information, develop standards and norms for statistical activities, and support countries' efforts to strengthen their national statistical systems.
 * [Internet World Stats](https://www.internetworldstats.com/)
+* [AI for Earth, Microsoft](https://www.microsoft.com/en-us/ai/ai-for-earth)
 
+## Earth Observation
+* [Earth Observation	Sentinel](https://apps.sentinel-hub.com/eo-browser/)
+* [Planet](https://www.planet.com/)
+* [Earth Genome](https://www.earthgenome.org/)
+* [Copernicus Open Access Hub](	https://scihub.copernicus.eu/dhus/#/home)
+* [GEOSS](http://www.geoportal.org/)
+* [Geospatial Big Data Platform (GDBX)](https://www.digitalglobe.com/platforms/gbdx)
+* [Landsat](https://landlook.usgs.gov/viewer.html)
+* [Satelligence](https://satelligence.com/)
+* [Earth on AWS](https://aws.amazon.com/earth/)
+* [Earth Genome](https://www.earthgenome.org/)
+* [TERRSET](https://clarklabs.org/terrset/)
+* [Radiant Earth](https://www.radiant.earth/)
+* [Earth now](https://earthnow.com/)
+* [Descartes Labs](https://www.descarteslabs.com/)
+* [UK Solar System Data Centre (UKSSDC)](https://www.ukssdc.ac.uk/)
+* [List of GIS Data Sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources)
+* [Open Data Cube](https://www.opendatacube.org/): An Open Source Geospatial Data Management
+& Analysis Platform
 
 
 ## Climate
@@ -95,7 +115,7 @@
 * [Sea around us](http://www.seaaroundus.org/): We present fisheries and fisheries-related data at spatial scales that have ecological and policy relevance, such as by Exclusive Economic Zones, High Seas, or Large Marine Ecosystems.
 
 
-# Resources and Economy
+## Resources and Economy
 * [DataBank](https://data.worldbank.org/): DataBank is an analysis and visualisation tool that contains collections of time series data on a variety of topics. You can create your own queries; generate tables, charts, and maps; and easily save, embed, and share them
 * [World Bank Data Catalogue](https://datacatalog.worldbank.org/): Search and Share Development Data
 * [IMF](https://www.imf.org/en/Data): This data set facilitates bilateral and multilateral analysis of cross-border stocks of securities through an array of cross-economies data tables.
@@ -126,37 +146,3 @@
 * [iNaturalist](https://www.inaturalist.org/): INaturalist is a citizen science project and online social network of naturalists, citizen scientists, and biologists built on the concept of mapping and sharing observations of biodiversity across the globe
 * [Zooniverse](https://www.zooniverse.org): The Zooniverse enables everyone to take part in real cutting edge research in many fields across the sciences, humanities, and more. The Zooniverse creates opportunities for you to unlock answers and contribute to real discoveries.
 * [Wikipedia List of Citizen Science Platforms](https://en.wikipedia.org/wiki/List_of_citizen_science_projects)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
