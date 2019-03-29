@@ -6,6 +6,9 @@ A global ecosystem for *Environmental Intelligence*, has the potential to put us
 
 Below, is a non exhaustive megalist of relevant datasets and databases that cover multiple ecosystems and spatiotemporal scales. 
 
+![alt text](https://www.impactlab.org.uk/uploads/environmental_intelligence2.jpg)
+
+
 
 ## Multi-thematic
 
