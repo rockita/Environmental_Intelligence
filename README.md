@@ -9,7 +9,6 @@
 * [UN Global Platform for Official Statistics](https://www.officialstatistics.org/)
 * [UK's Natural Environment Research Council data catalogue](https://csw-nerc.ceda.ac.uk/geonetwork/srv/eng/catalog.search#/home)
 * [EPA Ireland’s Environmental Open Data Portal](https://data.epa.ie/)
-* [UK's Center for Ecology and Hydrology data](https://catalogue.ceh.ac.uk/eidc/documents): The Environmental Information Platform provides enhanced access to CEH's key data holdings via web-based tools, programming interfaces and a data catalogue
 * [Nature's Scientific Data](https://www.nature.com/sdata/): Scientific Data is a peer-reviewed, open-access journal for descriptions of scientifically valuable datasets, and research that advances the sharing and reuse of scientific data. 
 * [GeoPlatform Data Resources](https://www.geoplatform.gov/resources/datasets/): The OMB A–16 National Geospatial Data Asset (NGDA) Portfolio is organized into 17 NGDA Themes made up of one or more associated NGDA Datasets
 * [UN Spatial Data Infrastructure initiative (UNSDI)](http://www.unsdi.nl/)
@@ -19,7 +18,6 @@
 * [CASEarth (Big Earth Data Platform](http://www.casearth.com/)
 * [United States Environmental Protection Agency](https://edg.epa.gov/metadata/catalog/data/data.page)
 * [Earth Explorer](https://earthexplorer.usgs.gov/)
-* [Global Pulse Labs](https://www.unglobalpulse.org/pulse-labs): Pulse Labs bring together government experts, UN agencies, academia and the private sector to pioneer new methods and frameworks for for using Big Data to support development goals.
 * [U.S. Geological Surveys](https://www.usgs.gov/products/data-and-tools/data-and-tools-topics): We provide science about the natural hazards that threaten lives and livelihoods; the water, energy, minerals, and other natural resources we rely on; the health of our ecosystems and environment; and the impacts of climate and land-use change
 * [MapX](https://www.mapx.org)
 * [USGS](https://www.usgs.gov/products/data-and-tools/data-and-tools-topics): The USGS serves the US by providing reliable scientific information to describe and understand the Earth; minimize loss of life and property from natural disasters; manage water, biological, energy, and mineral resources; and enhance and protect our quality of life.
@@ -29,10 +27,6 @@
 * [The United Nations Statistics Division](http://data.un.org/): The United Nations Statistics Division is committed to the advancement of the global statistical system. We compile and disseminate global statistical information, develop standards and norms for statistical activities, and support countries' efforts to strengthen their national statistical systems.
 * [Internet World Stats](https://www.internetworldstats.com/)
 
-
-
-
-https://www.internetworldstats.com/
 
 
 ## Climate
@@ -50,7 +44,6 @@ https://www.internetworldstats.com/
 * [MapX](https://www.mapx.org)
 
 ## Water
-
 * [SDG 661 (Surface Water Monitoring)](https://www.sdg661.app)
 * [Global Surface Water Explorer](https://global-surface-water.appspot.com/): maps the location and temporal distribution of water surfaces at the global scale over the past 32 years
 * [Flood and Drought Monitor](http://www.flooddroughtmonitor.com/home): freely available data for floods and drought assessments
@@ -67,7 +60,7 @@ https://www.internetworldstats.com/
 * [Global Forest](https://www.globalforestwatch.org/map?menu=eyJkYXRhc2V0Q2F0ZWdvcnkiOiJmb3Jlc3RDaGFuZ2UiLCJtZW51U2VjdGlvbiI6ImRhdGFzZXRzIn0%3D): Global Forest Watch offers the latest data, technology and tools that empower people everywhere to better protect forests.
 * [Forest Atlas](https://www.wri.org/our-work/project/forest-atlases/open-data-portals): The Forest Atlases are online platforms that help countries better manage their forest resources by combining government data with the latest forest monitoring technology
 
-## Biodiversity
+## Biodiversity & Ecology
 
 * [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/): Free and open access to biodiversity data from 43k databases
 * [Biodiversity Indicators Partnership (BIP)](http://bipdashboard.natureserve.org/bip/SelectCountry.html): Access biodiversity indicator data by country
@@ -79,10 +72,19 @@ https://www.internetworldstats.com/
 * [IUCN Red List of Ecosystems](https://iucnrle.org/)
 * [Map of Life (MOL)](https://mol.org/): The Map of Life assembles and integrates different sources of data describing species distributions worldwide. These data include expert species range maps, species occurrence points, ecoregions, and protected areas from providers like IUCN, WWF, GBIF, and more. All data assets are stored, managed, backed up, and accessed using a hosted cloud instance.
 * [Nature Map Earth](https://naturemap.earth/): Nature Map Earth is developing an integrated global map of biodiversity, carbon storage, and other dimensions of nature by consolidating and crowd-sourcing data from many sources.
+* [Movebank]( https://www.movebank.org/panel_embedded_movebank_webapp): Movebank is a free, online database of animal tracking data hosted by the Max Planck Institute for Ornithology. We help animal tracking researchers to manage, share, protect, analyze, and archive their data. The animal tracking data in Movebank belongs to researchers all over the world who choose whether and how to share their data with the public.
+* [Macaulay Library, Cornell Lab of Ornithology)](https://www.macaulaylibrary.org): The Macaulay Library is the world’s premier scientific archive of natural history audio, video, and photographs. Although the Macaulay Library’s history is rooted in birds, the collection includes amphibians, fishes, and mammals, and the collection preserves recordings of each species’ behavior and natural history.
+* [UK's Center for Ecology and Hydrology data](https://catalogue.ceh.ac.uk/eidc/documents): The Environmental Information Platform provides enhanced access to CEH's key data holdings via web-based tools, programming interfaces and a data catalogue
+
 
 ## Protected areas
 * [Global Platform of Indigenous and Community Lands](http://www.landmarkmap.org/data/): The Global Platform of Indigenous and Community Lands displays georeferenced information on collectively-held and used lands worldwide
 * [Digital Observatory for Protected Areas (DOPA)](https://dopa-explorer.jrc.ec.europa.eu/dopa_explorer)
+
+## Polar
+* [UK Polar Data Centre](https://www.bas.ac.uk/data/uk-pdc/): The UK Polar Data Centre (UK PDC) is the focal point for Arctic and Antarctic environmental data management in the UK. Part of the Natural Environmental Research Council’s (NERC) network of environmental data centres and based at the British Antarctic Survey, we coordinate the management of polar data from UK-funded research and support researchers in complying with national and international data legislation and policy.
+* [Antarctic Master Directory by Nasa](https://gcmd.nasa.gov/portals/amd/)
+
 
 ## Natural Hazards
 * [Global Risk Data Platform (PREVIEW)](https://preview.grid.unep.ch/): The PREVIEW Global Risk Data Platform is a multiple agencies effort to share spatial data information on global risk from natural hazards. Users can visualise, download or extract data on past hazardous events, human & economical hazard exposure and risk from natural hazards.
@@ -90,6 +92,7 @@ https://www.internetworldstats.com/
 ## Marine
 * [Global Fishing Watch](https://globalfishingwatch.org/): Global Fishing Watch is promoting ocean sustainability through greater transparency. We use cutting-edge technology to visualise, track and share data about global fishing activity in near real-time and for free.
 * [Global Ocean Observing System](http://www.goosocean.org/): The Global Ocean Observing System (GOOS) is a sustained collaborative system of ocean observations, encompassing in situ networks, satellite systems, governments, UN agencies and individual scientists
+* [Sea around us](http://www.seaaroundus.org/): We present fisheries and fisheries-related data at spatial scales that have ecological and policy relevance, such as by Exclusive Economic Zones, High Seas, or Large Marine Ecosystems.
 
 
 # Resources and Economy
@@ -106,6 +109,7 @@ https://www.internetworldstats.com/
 * [MIT Observatory of Economic Complexity ](https://atlas.media.mit.edu/api/): The Observatory of Economic Complexity is a tool that allows users to quickly compose a visual narrative about countries and the products they exchange
 
 ## Tracking UN's Sustainable Development Goals
+* [Global Pulse Labs](https://www.unglobalpulse.org/pulse-labs): Pulse Labs bring together government experts, UN agencies, academia and the private sector to pioneer new methods and frameworks for for using Big Data to support development goals.
 * [Datatopics by Worldbank](http://datatopics.worldbank.org/sdgatlas/SDG-01-no-poverty.html)
 * [SDG Index and Dashboards](https://dashboards.sdgindex.org/#/)
 * [UN Stats SDGs](https://unstats.un.org/sdgs/indicators/database): This platform provides access to data compiled through the UN System in preparation for the Secretary-General's annual report on "Progress towards the Sustainable Development Goals"
