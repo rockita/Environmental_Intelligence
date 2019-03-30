@@ -47,6 +47,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [Earth Genome](https://www.earthgenome.org/)
 * [Copernicus Open Access Hub](	https://scihub.copernicus.eu/dhus/#/home)
 * [GEOSS](http://www.geoportal.org/)
+* [Picterra](https://picterra.ch/platform/): We help you find the right earth observation data sources, and provide you with machine-learning powered tools to transform raw image data into structured data and meaningful insights at a speed, scale and accuracy level
 * [Geospatial Big Data Platform (GDBX)](https://www.digitalglobe.com/platforms/gbdx)
 * [Landsat](https://landlook.usgs.gov/viewer.html)
 * [Satelligence](https://satelligence.com/)
