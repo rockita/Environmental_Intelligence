@@ -26,6 +26,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [UN Spatial Data Infrastructure initiative (UNSDI)](http://www.unsdi.nl/)
 * [Future Earth](http://medialab.futureearth.org/)
 * [Earth Map](https://earthmapdemo.info)
+* [PlanetOS](https://planetos.com/): Planet OS delivers streamlined access to high-quality weather, climate, and environmental data from the world’s leading providers.
 * [Open Foris / Collect Earth](http://www.openforis.org/tools/collect-earth.html)
 * [CASEarth (Big Earth Data Platform](http://www.casearth.com/)
 * [United States Environmental Protection Agency](https://edg.epa.gov/metadata/catalog/data/data.page)
@@ -97,7 +98,6 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [Wikipedia List of biodiversity databases](https://en.wikipedia.org/wiki/List_of_biodiversity_databases)
 * [UN Biodiversity Lab](https://www.unbiodiversitylab.org/)
 * [UN Environment World Conservation Monitoring Centre (UNEP-WCMC)](https://www.unep-wcmc.org/resources-and-data): The UN Environment World Conservation Monitoring Centre (UNEP-WCMC) works with scientists and policy makers worldwide to place biodiversity at the heart of environment and development decision-making to enable enlightened choices for people and the planet. 
-* [UN Biodiversity Lab](https://www.unbiodiversitylab.org/)
 * [IUCN Red List of Threatened Species](https://www.iucnredlist.org/resources/spatial-data-download)
 * [IUCN Red List of Ecosystems](https://iucnrle.org/)
 * [Map of Life (MOL)](https://mol.org/): The Map of Life assembles and integrates different sources of data describing species distributions worldwide. These data include expert species range maps, species occurrence points, ecoregions, and protected areas from providers like IUCN, WWF, GBIF, and more. All data assets are stored, managed, backed up, and accessed using a hosted cloud instance.
