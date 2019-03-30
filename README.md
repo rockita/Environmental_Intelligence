@@ -78,6 +78,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [NCEI](https://www.ncdc.noaa.gov/data-access): is the world’s largest provider of weather and climate data. Land-based, marine, model, radar, weather balloon, satellite, and paleoclimatic are just a few of the types of datasets available.
 * [UK's MET Office](https://www.metoffice.gov.uk/datapoint): DataPoint is an unsupported service to access freely available Met Office data feeds in a format that is suitable for application developers.
 * [MapX](https://www.mapx.org)
+* [Berkeley Earth](http://berkeleyearth.org/data/)
 
 ## Water
 * [SDG 661 (Surface Water Monitoring)](https://www.sdg661.app)
