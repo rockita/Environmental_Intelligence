@@ -40,6 +40,8 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [The United Nations Statistics Division](http://data.un.org/): The United Nations Statistics Division is committed to the advancement of the global statistical system. We compile and disseminate global statistical information, develop standards and norms for statistical activities, and support countries' efforts to strengthen their national statistical systems.
 * [Internet World Stats](https://www.internetworldstats.com/)
 * [AI for Earth, Microsoft](https://www.microsoft.com/en-us/ai/ai-for-earth)
+* [The Humanitarian Data Exchange](https://data.humdata.org/): Find, share and use humanitarian data all in one place
+
 
 ## Earth Observation
 * [Earth Observation	Sentinel](https://apps.sentinel-hub.com/eo-browser/)
