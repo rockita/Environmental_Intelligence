@@ -25,7 +25,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [GeoPlatform Data Resources](https://www.geoplatform.gov/resources/datasets/): The OMB A–16 National Geospatial Data Asset (NGDA) Portfolio is organized into 17 NGDA Themes made up of one or more associated NGDA Datasets
 * [UN Spatial Data Infrastructure initiative (UNSDI)](http://www.unsdi.nl/)
 * [Future Earth](http://medialab.futureearth.org/)
-* [Earth Map](https://earthmapdemo.info)
+* [Earth Map](https://earthmap.org): Earth Map allows everyone to visualize, process and analyze satellite imagery and global datasets on climate, vegetation, fires, biodiversity, geo-social and other topics.
 * [PlanetOS](https://planetos.com/): Planet OS delivers streamlined access to high-quality weather, climate, and environmental data from the world’s leading providers.
 * [Open Foris / Collect Earth](http://www.openforis.org/tools/collect-earth.html)
 * [CASEarth (Big Earth Data Platform](http://www.casearth.com/)
