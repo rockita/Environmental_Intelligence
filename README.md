@@ -72,7 +72,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [Copernicus climate data store](https://climate.copernicus.eu/)
 * [Moja](https://moja.global/): moja global helps countries understand their emissions today and plan their reductions for tomorrow.
 * [Climate engine](http://climateengine.org/): Analyze and interact with climate and earth observations for decision support related to drought, water use, agricultural, wildfire, and ecology
-* [VAMPIRE](http://pulselabjakarta.id/vampire/): Vulnerability Analysis Monitoring Platform for Impact of Regional Events an early warning system for climate impact 
+* [VAMPIRE](http://vampire.pulselabjakarta.org/): Vulnerability Analysis Monitoring Platform for Impact of Regional Events an early warning system for climate impact 
 * [Climate Watch](https://www.climatewatchdata.org/)> Climate Watch offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress
 * [Partnership for Resilience and Preparedness](https://prepdata.org/): Visualizing data to build climate resilience> 
 * [NCEI](https://www.ncdc.noaa.gov/data-access): is the world’s largest provider of weather and climate data. Land-based, marine, model, radar, weather balloon, satellite, and paleoclimatic are just a few of the types of datasets available.
