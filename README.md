@@ -144,7 +144,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 
 ## Tracking UN's Sustainable Development Goals
 * [Global Pulse Labs](https://www.unglobalpulse.org/pulse-labs): Pulse Labs bring together government experts, UN agencies, academia and the private sector to pioneer new methods and frameworks for for using Big Data to support development goals.
-* [Datatopics by Worldbank](http://datatopics.worldbank.org/sdgatlas/SDG-01-no-poverty.html)
+* [Datatopics by Worldbank](https://datatopics.worldbank.org/sdgatlas/): The Atlas of Sustainable Development Goals 2020 presents interactive storytelling and data visualizations about the 17 Sustainable Development Goals.
 * [SDG Index and Dashboards](https://dashboards.sdgindex.org/#/)
 * [UN Stats SDGs](https://unstats.un.org/sdgs/indicators/database): This platform provides access to data compiled through the UN System in preparation for the Secretary-General's annual report on "Progress towards the Sustainable Development Goals"
 * [Climate Watch Data](https://www.climatewatchdata.org/ndcs-sdg): Identify potential alignment between the targets, actions, policy measures and needs in countries' Nationally Determined Contributions (NDCs) and the targets of the Sustainable Development Goals (SDGs)
