@@ -51,7 +51,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [GEOSS](http://www.geoportal.org/)
 * [Picterra](https://picterra.ch/platform/): We help you find the right earth observation data sources, and provide you with machine-learning powered tools to transform raw image data into structured data and meaningful insights at a speed, scale and accuracy level
 * [Geospatial Big Data Platform (GDBX)](https://www.digitalglobe.com/platforms/gbdx)
-* [Landsat](https://landlook.usgs.gov/viewer.html)
+* [Landsat Look](https://landlook.usgs.gov/): The LandsatLook Viewer is a prototype tool that was developed to allow rapid online viewing and access to the USGS Landsat image archives.
 * [Satelligence](https://satelligence.com/)
 * [Earth on AWS](https://aws.amazon.com/earth/)
 * [Earth Genome](https://www.earthgenome.org/)
