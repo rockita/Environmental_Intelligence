@@ -92,7 +92,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 ## Forests	
 * [Global Forest Watch](https://www.globalforestwatch.org/): Global Forest Watch offers the latest data, technology and tools that empower people everywhere to better protect forests.
 * [Global Forest Resources Assessment](http://www.fao.org/forestry/en/)
-* [IMPACT Tool Box](https://webgate.ec.europa.eu/fpfis/mwikis/impacttoolbox/index.php/Impact_Toolbox_User_Guide): IMPACT toolbox was designed for analysing and assessing forest degradation using satellite imagery
+* [IMPACT Tool Box](https://forobs.jrc.ec.europa.eu/products/software/impact.php): IMPACT Toolbox offers a combination of remote sensing, photo interpretation and processing technologies in a portable and stand-alone GIS environment, allowing non specialist users to easily accomplish all necessary pre-processing steps while giving a fast and user-friendly environment for visual editing and map validation.
 * [Global Forest](https://www.globalforestwatch.org/map?menu=eyJkYXRhc2V0Q2F0ZWdvcnkiOiJmb3Jlc3RDaGFuZ2UiLCJtZW51U2VjdGlvbiI6ImRhdGFzZXRzIn0%3D): Global Forest Watch offers the latest data, technology and tools that empower people everywhere to better protect forests.
 * [Forest Atlas](https://www.wri.org/our-work/project/forest-atlases/open-data-portals): The Forest Atlases are online platforms that help countries better manage their forest resources by combining government data with the latest forest monitoring technology
 
