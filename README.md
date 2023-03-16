@@ -19,13 +19,13 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [Trends Earth](http://trends.earth/docs/en/index.html): is a platform from Conservation International for monitoring land change using earth observations in a desktop and cloud-based system
 * [Department of the Environment and Energy, Australian Government](http://www.environment.gov.au/about-us/environmental-information-data/open-data): The Department designs and implements Australian Government policy and programs to protect and conserve the environment, water and heritage, promote climate action, and provide adequate, reliable and affordable energy
 * [UN Global Platform for Official Statistics](https://www.officialstatistics.org/)
-* [UK's Natural Environment Research Council data catalogue](https://csw-nerc.ceda.ac.uk/geonetwork/srv/eng/catalog.search#/home)
+* [UK's Natural Environment Research Council data catalogue](https://data-search.nerc.ac.uk/geonetwork/srv/eng/catalog.search#/home)
 * [EPA Ireland’s Environmental Open Data Portal](https://data.epa.ie/)
 * [Nature's Scientific Data](https://www.nature.com/sdata/): Scientific Data is a peer-reviewed, open-access journal for descriptions of scientifically valuable datasets, and research that advances the sharing and reuse of scientific data. 
 * [GeoPlatform Data Resources](https://www.geoplatform.gov/resources/datasets/): The OMB A–16 National Geospatial Data Asset (NGDA) Portfolio is organized into 17 NGDA Themes made up of one or more associated NGDA Datasets
 * [UN Spatial Data Infrastructure initiative (UNSDI)](http://www.unsdi.nl/)
 * [Future Earth](http://medialab.futureearth.org/)
-* [Earth Map](https://earthmapdemo.info)
+* [Earth Map](https://earthmap.org): Earth Map allows everyone to visualize, process and analyze satellite imagery and global datasets on climate, vegetation, fires, biodiversity, geo-social and other topics.
 * [PlanetOS](https://planetos.com/): Planet OS delivers streamlined access to high-quality weather, climate, and environmental data from the world’s leading providers.
 * [Open Foris / Collect Earth](http://www.openforis.org/tools/collect-earth.html)
 * [CASEarth (Big Earth Data Platform](http://www.casearth.com/)
@@ -51,7 +51,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [GEOSS](http://www.geoportal.org/)
 * [Picterra](https://picterra.ch/platform/): We help you find the right earth observation data sources, and provide you with machine-learning powered tools to transform raw image data into structured data and meaningful insights at a speed, scale and accuracy level
 * [Geospatial Big Data Platform (GDBX)](https://www.digitalglobe.com/platforms/gbdx)
-* [Landsat](https://landlook.usgs.gov/viewer.html)
+* [Landsat Look](https://landlook.usgs.gov/): The LandsatLook Viewer is a prototype tool that was developed to allow rapid online viewing and access to the USGS Landsat image archives.
 * [Satelligence](https://satelligence.com/)
 * [Earth on AWS](https://aws.amazon.com/earth/)
 * [Earth Genome](https://www.earthgenome.org/)
@@ -72,7 +72,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [Copernicus climate data store](https://climate.copernicus.eu/)
 * [Moja](https://moja.global/): moja global helps countries understand their emissions today and plan their reductions for tomorrow.
 * [Climate engine](http://climateengine.org/): Analyze and interact with climate and earth observations for decision support related to drought, water use, agricultural, wildfire, and ecology
-* [VAMPIRE](http://pulselabjakarta.id/vampire/): Vulnerability Analysis Monitoring Platform for Impact of Regional Events an early warning system for climate impact 
+* [VAMPIRE](http://vampire.pulselabjakarta.org/): Vulnerability Analysis Monitoring Platform for Impact of Regional Events an early warning system for climate impact 
 * [Climate Watch](https://www.climatewatchdata.org/)> Climate Watch offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress
 * [Partnership for Resilience and Preparedness](https://prepdata.org/): Visualizing data to build climate resilience> 
 * [NCEI](https://www.ncdc.noaa.gov/data-access): is the world’s largest provider of weather and climate data. Land-based, marine, model, radar, weather balloon, satellite, and paleoclimatic are just a few of the types of datasets available.
@@ -92,7 +92,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 ## Forests	
 * [Global Forest Watch](https://www.globalforestwatch.org/): Global Forest Watch offers the latest data, technology and tools that empower people everywhere to better protect forests.
 * [Global Forest Resources Assessment](http://www.fao.org/forestry/en/)
-* [IMPACT Tool Box](https://webgate.ec.europa.eu/fpfis/mwikis/impacttoolbox/index.php/Impact_Toolbox_User_Guide): IMPACT toolbox was designed for analysing and assessing forest degradation using satellite imagery
+* [IMPACT Tool Box](https://forobs.jrc.ec.europa.eu/products/software/impact.php): IMPACT Toolbox offers a combination of remote sensing, photo interpretation and processing technologies in a portable and stand-alone GIS environment, allowing non specialist users to easily accomplish all necessary pre-processing steps while giving a fast and user-friendly environment for visual editing and map validation.
 * [Global Forest](https://www.globalforestwatch.org/map?menu=eyJkYXRhc2V0Q2F0ZWdvcnkiOiJmb3Jlc3RDaGFuZ2UiLCJtZW51U2VjdGlvbiI6ImRhdGFzZXRzIn0%3D): Global Forest Watch offers the latest data, technology and tools that empower people everywhere to better protect forests.
 * [Forest Atlas](https://www.wri.org/our-work/project/forest-atlases/open-data-portals): The Forest Atlases are online platforms that help countries better manage their forest resources by combining government data with the latest forest monitoring technology
 
@@ -135,7 +135,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [IMF](https://www.imf.org/en/Data): This data set facilitates bilateral and multilateral analysis of cross-border stocks of securities through an array of cross-economies data tables.
 * [Comtrade Labs](https://comtrade.un.org/): Comtrade Labs is a place to showcase innovative and experimental uses of UN Comtrade data. Explore visualizations of huge volume of data and metadata, cutting-edge data extraction tools, and alternative dissemination platforms.
 * [Harvard Atlas](http://atlas.cid.harvard.edu/data): The Atlas contains trade data for 250 countries and territories, classified into 20 categories of goods and 5 categories of services. Combined, this results in coverage of over 6000 products worldwide.
-* [CHRTD](https://resourcetrade.earth/data): The CHRTD is a repository of bilateral trade in natural resources between more than 200 countries and territories. The database includes the monetary values and masses of trade in over 1,350 different types of natural resources and resource products, including agricultural, fishery and forestry products, fossil fuels, metals and other minerals, and pearls and gemstones. It contains raw materials, intermediate products, and by-products.
+* [CHRTD](https://resourcetrade.earth/): The CHRTD is a repository of bilateral trade in natural resources between more than 200 countries and territories. The database includes the monetary values and masses of trade in over 1,350 different types of natural resources and resource products, including agricultural, fishery and forestry products, fossil fuels, metals and other minerals, and pearls and gemstones. It contains raw materials, intermediate products, and by-products.
 * [Asia Pacific Energy Portal](https://asiapacificenergy.org/): The platform’s goal is to facilitate research, analysis, and informed decision-making within the Asia-Pacific region’s energy sector. It is an open-access information platform, providing data visualizations for an extensive set of energy statistics, full-text policies, and interactive infrastructure maps.
 * [Fao](http://www.fao.org/statistics/databases/en/):The databases within FAO cover a broad spectrum of topics related to food security and agriculture
 * [FAS’s PSD Online data](https://apps.fas.usda.gov/psdonline/app/index.html#/app/downloads/): FAS’s PSD Online data for those commodities published in the WASDE Report are reviewed and updated monthly by an interagency committee chaired by USDA’s World Agricultural Outlook Board (WAOB), and consisting of: the Foreign Agricultural Service (FAS), the Economic Research Service (ERS), the Farm Service Agency (FSA), and the Agricultural Marketing Service (AMS).
@@ -144,7 +144,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 
 ## Tracking UN's Sustainable Development Goals
 * [Global Pulse Labs](https://www.unglobalpulse.org/pulse-labs): Pulse Labs bring together government experts, UN agencies, academia and the private sector to pioneer new methods and frameworks for for using Big Data to support development goals.
-* [Datatopics by Worldbank](http://datatopics.worldbank.org/sdgatlas/SDG-01-no-poverty.html)
+* [Datatopics by Worldbank](https://datatopics.worldbank.org/sdgatlas/): The Atlas of Sustainable Development Goals 2020 presents interactive storytelling and data visualizations about the 17 Sustainable Development Goals.
 * [SDG Index and Dashboards](https://dashboards.sdgindex.org/#/)
 * [UN Stats SDGs](https://unstats.un.org/sdgs/indicators/database): This platform provides access to data compiled through the UN System in preparation for the Secretary-General's annual report on "Progress towards the Sustainable Development Goals"
 * [Climate Watch Data](https://www.climatewatchdata.org/ndcs-sdg): Identify potential alignment between the targets, actions, policy measures and needs in countries' Nationally Determined Contributions (NDCs) and the targets of the Sustainable Development Goals (SDGs)
@@ -152,7 +152,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [Data4SDGs](http://www.data4sdgs.org/): The Global Partnership for Sustainable Development Data is a global network bringing together governments, the private sector, and civil society organizations dedicated to using the data revolution to achieve the Sustainable Development Goals. 
 * [Global Sustainability Reporting Data](http://database.globalreporting.org/): The Search area provides users access to all types of sustainability reports, whether GRI-based or otherwise, and relevant information related to the reporting organizations
 * [UN Global Pulse](https://www.unglobalpulse.org/): UN Global Pulse is an innovation initiative of the United Nations to harness big data, artificial intelligence and other emerging technologies for sustainable development and humanitarian action 
-* [Environmental Democracy Index](https://environmentaldemocracyindex.org/map#all): The Environmental Democracy Index was developed by The Access Initiative (TAI) and World Resources Institute (WRI) in collaboration with partners around the world. The index evaluates 70 countries, across 75 legal indicators, based on objective and internationally recognized standards established by the United Nations Environment Programme’s (UNEP) Bali Guidelines. 
+* [Environmental Democracy Index](https://environmentaldemocracyindex.org): The Environmental Democracy Index was developed by The Access Initiative (TAI) and World Resources Institute (WRI) in collaboration with partners around the world. The index evaluates 70 countries, across 75 legal indicators, based on objective and internationally recognized standards established by the United Nations Environment Programme’s (UNEP) Bali Guidelines. 
 * [Ireland's Sustainable Development Goals National Implementation Plan 2018-2020](http://irelandsdg.geohive.ie/)
 * [UK data for Sustainable Development Goal indicators](https://sustainabledevelopment-uk.github.io/)
 * [U.S. National Statistics for the U.N. Sustainable Development Goals](https://sdg.data.gov/)
