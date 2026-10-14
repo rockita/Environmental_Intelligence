@@ -97,6 +97,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [Forest Atlas](https://www.wri.org/our-work/project/forest-atlases/open-data-portals): The Forest Atlases are online platforms that help countries better manage their forest resources by combining government data with the latest forest monitoring technology
 
 ## Biodiversity & Ecology
+* [KoreAves — Korean bird evidence atlas](https://koreaves.com/gis/): Free regional interactive explorer of documented public bird observations across South Korea, with original-source links and explicit notes on record coverage and interpretation limits.
 * [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/): Free and open access to biodiversity data from 43k databases
 * [Biodiversity Indicators Partnership (BIP)](http://bipdashboard.natureserve.org/bip/SelectCountry.html): Access biodiversity indicator data by country
 * [Wikipedia List of biodiversity databases](https://en.wikipedia.org/wiki/List_of_biodiversity_databases)
